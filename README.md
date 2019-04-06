@@ -20,6 +20,7 @@
 ## 项目技术栈 
 
 前端: react, react-router
-后端: parse-server
+
+后端: [parse-server](https://github.com/parse-community/parse-server)
 
 项目通俗易懂,适合react新手学习参考
