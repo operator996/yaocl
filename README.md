@@ -2,6 +2,7 @@
 ## yet another overtime corps list
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![top.996](https://img.shields.io/badge/link-top.996-red.svg)](https://github.com/top996/top.996)
 
 本项目开源,采用Anti 996协议开源
 
