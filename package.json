@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "parse": "^2.3.0",
+    "parse": "^2.10.0",
     "parse-react": "^0.5.2",
     "prop-types": "^15.7.2",
     "query-string": "^6.4.2",
